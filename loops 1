@@ -1,0 +1,4 @@
+number= int(input("enter the number"))
+power= int(input("enter the power"))
+result= number **power
+print(result)
