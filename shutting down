@@ -1,0 +1,5 @@
+a = input("Do want to shut down this system?")
+if a == "yes":
+    print("Shutting down the system...")
+else:
+    print("System will not be shut down.")    
